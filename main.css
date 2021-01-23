@@ -1,0 +1,30 @@
+.header-text {
+    font-size: 2.5rem;
+    position: relative;
+    top: 150px;
+    left: 100px;
+}
+
+/* 
+    absolute  - Mukiri
+    relative  - Marsden
+    sticky - Joan
+    fixed - All
+    static - All
+*/
+
+.bg-yellow {
+    background-color: #F3FF35;
+}
+
+.bold-text {
+    font-weight: 900;
+}
+
+.text-italic {
+    font-style: italic;
+}
+
+.light-text {
+    font-weight: 200;
+}
